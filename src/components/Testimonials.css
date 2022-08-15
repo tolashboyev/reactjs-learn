@@ -77,9 +77,9 @@ html{
     z-index: 9999;
     /* box-shadow: 0 5px 25px rgba(254, 247, 180, 0.761); */
 }
-.t-owner-b:nth-child(even){
-    /* box-shadow: 0 5px 25px rgba(227, 203, 255, 0.688); */
-}
+/* .t-owner-b:nth-child(even){
+    box-shadow: 0 5px 25px rgba(227, 203, 255, 0.688);
+} */
 .t-profile-b img{
     width: 60px;
     border-radius: 100%;
